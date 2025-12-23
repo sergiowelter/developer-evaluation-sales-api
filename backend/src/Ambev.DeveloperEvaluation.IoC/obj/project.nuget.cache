@@ -1,0 +1,171 @@
+{
+  "version": 2,
+  "dgSpecHash": "qlwHD+d0iueeKNzvmfoYa/mM1m0aKB/vDKc64I5wBVmsSIvOSc7m7bNYLK0mqnKjxs9p/MFefp/2bDTHIEAaow==",
+  "success": false,
+  "projectFilePath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Npgsql.EntityFrameworkCore.PostgreSQL (>= 8.0.8)' for 'net8.0'.",
+      "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'FluentValidation (>= 11.10.0)' for 'net8.0'.",
+      "libraryId": "FluentValidation",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'AutoMapper (>= 13.0.1)' for 'net8.0'.",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'MediatR (>= 12.4.1)' for 'net8.0'.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'OneOf (>= 3.0.271)' for 'net8.0'.",
+      "libraryId": "OneOf",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore (>= 8.0.10)' for 'net8.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore.Relational (>= 8.0.10)' for 'net8.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Relational",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Authentication.JwtBearer (>= 8.0.10)' for 'net8.0'.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.DependencyInjection.Abstractions (>= 8.0.2)' for 'net8.0'.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.Diagnostics.HealthChecks (>= 8.0.10)' for 'net8.0'.",
+      "libraryId": "Microsoft.Extensions.Diagnostics.HealthChecks",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'BCrypt.Net-Next (>= 4.0.3)' for 'net8.0'.",
+      "libraryId": "BCrypt.Net-Next",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Serilog.AspNetCore (>= 8.0.3)' for 'net8.0'.",
+      "libraryId": "Serilog.AspNetCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Serilog.Exceptions (>= 8.4.0)' for 'net8.0'.",
+      "libraryId": "Serilog.Exceptions",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Serilog.Exceptions.EntityFrameworkCore (>= 8.4.0)' for 'net8.0'.",
+      "libraryId": "Serilog.Exceptions.EntityFrameworkCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Serilog.Expressions (>= 5.0.0)' for 'net8.0'.",
+      "libraryId": "Serilog.Expressions",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Serilog.Sinks.Console (>= 6.0.0)' for 'net8.0'.",
+      "libraryId": "Serilog.Sinks.Console",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Serilog.Enrichers.ExceptionData (>= 1.0.0)' for 'net8.0'.",
+      "libraryId": "Serilog.Enrichers.ExceptionData",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Serilog.Enrichers.Environment (>= 3.0.1)' for 'net8.0'.",
+      "libraryId": "Serilog.Enrichers.Environment",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

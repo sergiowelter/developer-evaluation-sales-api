@@ -1,0 +1,12 @@
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Common\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.deps.json
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Common\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.dll
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Common\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.pdb
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Common\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Common.csproj.AssemblyReference.cache
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Common\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Common\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Common.AssemblyInfoInputs.cache
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Common\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Common.AssemblyInfo.cs
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Common\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Common.csproj.CoreCompileInputs.cache
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Common\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Common.dll
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Common\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Common.dll
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Common\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Common.pdb
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Common\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.Common.dll

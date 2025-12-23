@@ -1,0 +1,15 @@
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.deps.json
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.dll
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.dll
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.pdb
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.csproj.AssemblyReference.cache
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.AssemblyInfoInputs.cache
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.AssemblyInfo.cs
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.csproj.CoreCompileInputs.cache
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.csproj.CopyComplete
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.dll
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Domain.dll
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.Domain.dll
