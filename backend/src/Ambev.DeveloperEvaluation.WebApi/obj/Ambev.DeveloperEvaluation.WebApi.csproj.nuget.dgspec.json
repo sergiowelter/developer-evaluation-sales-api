@@ -1,30 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj": {}
+    "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj": {
+    "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj",
+        "projectUniqueName": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj",
         "projectName": "Ambev.DeveloperEvaluation.Application",
-        "projectPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj",
-        "packagesPath": "C:\\Users\\55519\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\obj\\",
+        "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj",
+        "packagesPath": "C:\\Users\\BCN\\.nuget\\packages\\",
+        "outputPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\55519\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\BCN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
-                "projectPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
+              "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
+                "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
               }
             }
           }
@@ -72,21 +75,24 @@
         }
       }
     },
-    "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj": {
+    "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj",
+        "projectUniqueName": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj",
         "projectName": "Ambev.DeveloperEvaluation.Common",
-        "projectPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj",
-        "packagesPath": "C:\\Users\\55519\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\obj\\",
+        "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj",
+        "packagesPath": "C:\\Users\\BCN\\.nuget\\packages\\",
+        "outputPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\55519\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\BCN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
@@ -179,27 +185,30 @@
         }
       }
     },
-    "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
+    "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj",
+        "projectUniqueName": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj",
         "projectName": "Ambev.DeveloperEvaluation.Domain",
-        "projectPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj",
-        "packagesPath": "C:\\Users\\55519\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\obj\\",
+        "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj",
+        "packagesPath": "C:\\Users\\BCN\\.nuget\\packages\\",
+        "outputPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\55519\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\BCN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj": {
-                "projectPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj"
+              "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj": {
+                "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj"
               }
             }
           }
@@ -239,36 +248,39 @@
         }
       }
     },
-    "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj": {
+    "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj",
+        "projectUniqueName": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj",
         "projectName": "Ambev.DeveloperEvaluation.IoC",
-        "projectPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj",
-        "packagesPath": "C:\\Users\\55519\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\obj\\",
+        "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj",
+        "packagesPath": "C:\\Users\\BCN\\.nuget\\packages\\",
+        "outputPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\55519\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\BCN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj": {
-                "projectPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj"
+              "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj": {
+                "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj"
               },
-              "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj": {
-                "projectPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj"
+              "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj": {
+                "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj"
               },
-              "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
-                "projectPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
+              "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
+                "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
               },
-              "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj": {
-                "projectPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj"
+              "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj": {
+                "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj"
               }
             }
           }
@@ -311,27 +323,30 @@
         }
       }
     },
-    "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj": {
+    "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj",
+        "projectUniqueName": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj",
         "projectName": "Ambev.DeveloperEvaluation.ORM",
-        "projectPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj",
-        "packagesPath": "C:\\Users\\55519\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\obj\\",
+        "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj",
+        "packagesPath": "C:\\Users\\BCN\\.nuget\\packages\\",
+        "outputPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\55519\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\BCN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
-                "projectPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
+              "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
+                "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
               }
             }
           }
@@ -385,27 +400,33 @@
         }
       }
     },
-    "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj": {
+    "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj",
+        "projectUniqueName": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj",
         "projectName": "Ambev.DeveloperEvaluation.WebApi",
-        "projectPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj",
-        "packagesPath": "C:\\Users\\55519\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\obj\\",
+        "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj",
+        "packagesPath": "C:\\Users\\BCN\\.nuget\\packages\\",
+        "outputPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\55519\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\BCN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj": {
-                "projectPath": "D:\\Projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj"
+              "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj": {
+                "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj"
+              },
+              "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj": {
+                "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj"
               }
             }
           }

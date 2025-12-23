@@ -150,3 +150,4 @@ D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\
 D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.pdb
 D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.genruntimeconfig.cache
 D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.WebApi.dll
+D:\projetos\ambev-api\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.sourcelink.json
