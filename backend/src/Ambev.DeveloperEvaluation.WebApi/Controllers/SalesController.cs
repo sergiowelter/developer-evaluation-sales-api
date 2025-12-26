@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Ambev.DeveloperEvaluation.Application.Sales.CreateSale;
+using Ambev.DeveloperEvaluation.Domain.Sales;
+
 
 namespace Ambev.DeveloperEvaluation.WebApi.Controllers;
 
@@ -7,6 +9,8 @@ namespace Ambev.DeveloperEvaluation.WebApi.Controllers;
 [Route("api/sales")]
 public class SalesController : ControllerBase
 {
+    private static readonly Dictionary<Guid, Sale> _sales = new();
+
     [HttpPost]
     public IActionResult Create([FromBody] CreateSaleCommand command)
     {
@@ -14,6 +18,7 @@ public class SalesController : ControllerBase
         {
             var handler = new CreateSaleHandler();
             var sale = handler.Handle(command);
+            _sales[sale.Id] = sale;
 
             return CreatedAtAction(
                 nameof(GetById),
@@ -33,13 +38,16 @@ public class SalesController : ControllerBase
     [HttpGet("{id}")]
     public IActionResult GetById(Guid id)
     {
-        return Ok($"Get sale {id}");
+        if (!_sales.TryGetValue(id, out var sale))
+            return NotFound();
+
+        return Ok(sale);
     }
 
     [HttpGet]
     public IActionResult GetAll()
     {
-        return Ok("List sales");
+        return Ok(_sales.Values);
     }
 
     [HttpPut("{id}")]
@@ -51,6 +59,17 @@ public class SalesController : ControllerBase
     [HttpDelete("{id}")]
     public IActionResult Cancel(Guid id)
     {
-        return NoContent();
+        if (!_sales.TryGetValue(id, out var sale))
+            return NotFound();
+
+        try
+        {
+            sale.Cancel();
+            return NoContent();
+        }
+        catch (Exception ex)
+        {
+            return BadRequest(new { error = ex.Message });
+        }
     }
 }

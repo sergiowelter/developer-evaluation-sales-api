@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ds/VNuMw2UloHUxT1rtzH27bU0rNlfRqFEdYdf5rPq7EyGBulEB8aAZ1PQP3UTP5tYkAcMAW560ycJKwRGa78A==",
+  "dgSpecHash": "MNBH/WuLFkMTSgga2WKrHo6dqgZiUxfo4TBcKgz11FV6vTcPblp65MtH5acQUTcFwRLUsyFxv98kPxR0DDU+RA==",
   "success": true,
   "projectFilePath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj",
   "expectedPackageFiles": [

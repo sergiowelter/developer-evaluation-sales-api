@@ -4182,6 +4182,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Ambev.DeveloperEvaluation.Application >= 1.0.0",
+      "Ambev.DeveloperEvaluation.Domain >= 1.0.0",
       "Ambev.DeveloperEvaluation.IoC >= 1.0.0",
       "MediatR >= 12.4.1",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.10",
@@ -4216,6 +4217,9 @@
           "projectReferences": {
             "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj": {
               "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj"
+            },
+            "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
+              "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
             },
             "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj": {
               "projectPath": "D:\\projetos\\ambev-api\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj"
