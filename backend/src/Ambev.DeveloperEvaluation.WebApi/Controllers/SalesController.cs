@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Ambev.DeveloperEvaluation.Application.Sales.CreateSale;
+using Ambev.DeveloperEvaluation.Application.Sales.UpdateSale;
 using Ambev.DeveloperEvaluation.Domain.Sales;
 
 
@@ -51,9 +52,21 @@ public class SalesController : ControllerBase
     }
 
     [HttpPut("{id}")]
-    public IActionResult Update(Guid id)
+    public IActionResult Update(Guid id, [FromBody] UpdateSaleCommand command)
     {
-        return Ok($"Update sale {id}");
+        try
+        {
+            command.SaleId = id; 
+            
+            var handler = new UpdateSaleHandler(_sales);
+            var sale = handler.Handle(command);
+
+            return Ok(sale);
+        }
+        catch (Exception ex)
+        {
+            return BadRequest(new { error = ex.Message });
+        }
     }
 
     [HttpDelete("{id}")]
